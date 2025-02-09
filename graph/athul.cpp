@@ -11,6 +11,10 @@ int main() {
 	freopen("C:/Users/athul/OneDrive/Desktop/coding/usr/output.txt", "w", stdout);
 
 #endif
-	ll t; cin >> t;
-	cout << "hello " << t;
+	ll t;
+
+	cout << "enter you number ";
+	cin >> t;
+	cout << "your number is " << t;
+
 }
